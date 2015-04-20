@@ -8,7 +8,7 @@ tags: []
 
 The last four years of my life were dedicated to philosophy—that is love of wisdom; and theology—the logos of God, that is a rational discourse about the Absolute.
 Innovation means looking towards the future, and those sciences seem to be about the past. Is that true?
-It is. However it is not about a revoked past. It is about the foundations of our present and future. Innovation is not about ex nihilo* creation, it is about evolving some existing reality**.
+It is. However it is not about a revoked past. It is about the foundations of our present and future. Innovation is not about ex nihilo[^1] creation, it is about evolving some existing reality[^2].
 
 When I start speaking about my coursework in philosophy and theology, I cannot help adding anthropology. Literally: a rational discourse about Man. The Absolute is known only through Man, it reveals Itself through Man, and then, there is no way one can try to understand the Principle of all things without looking for some kind of knowledge about the human reality.
 
@@ -21,6 +21,6 @@ Still, the vast majority of business strategies ignore this essential character 
 Back to our initial question: what has theology to do with innovation? It is about a good or a bad theologian and about a good or a bad entrepreneur. The bad one will create theories (or products) out of the box. Then he will force people to submit (or buy). He may be successful: mass manipulation has proven efficiency in history (and in marketing).
 The good one takes the human being as it is, in its environment. He establishes a relationship with singular persons. That does not mean submitting to each one, but giving the right answer to the right person.
 
-* [ex nihilo] = out of nothing
+[^1]: _ex nihilo_ = out of nothing
 
-** This is a highly discussed philosophical matter... but let's keep things simple.
+[^2]:  This is a highly discussed philosophical matter... but let's keep things simple.
