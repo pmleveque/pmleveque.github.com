@@ -6,6 +6,8 @@ category:
 tags: []
 ---
 
+<!-- quick ref for md: http://kramdown.gettalong.org/quickref.html -->
+
 The last four years of my life were dedicated to philosophy—that is love of wisdom; and theology—the logos of God, that is a rational discourse about the Absolute.
 Innovation means looking towards the future, and those sciences seem to be about the past. Is that true?
 It is. However it is not about a revoked past. It is about the foundations of our present and future. Innovation is not about ex nihilo[^1] creation, it is about evolving some existing reality[^2].
