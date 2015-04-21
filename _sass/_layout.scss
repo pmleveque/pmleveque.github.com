@@ -169,11 +169,20 @@
     font-size: 20px;
 }
 
+article {
+    margin-bottom: 60px;
+}
+
+.footnotes {
+    font-size: 80%;
+}
+
+
 .post-list {
     margin-left: 0;
     list-style: none;
 
-    > li {
+    > article {
         margin-bottom: $spacing-unit;
     }
 }
