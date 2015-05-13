@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Chair et outils"
+title:  "Flesh and tools"
 categories:
 ---
 
-_This article was adapted from an unpublished work I have done while studying at Collège des Bernardins, Paris. I will provide an english translation as soon as possible._
+_Unitial title: "Chair et outils". This article was adapted from an unpublished work I have done while studying at Collège des Bernardins, Paris. I will provide an english translation as soon as possible._
 
 La problématique posée par le nouvel environnement technologique n’est pas totalement nouvelle. Depuis l’aube de l’humanité, l’homme déploie son génie en modifiant son environnement. C’est une contradiction ancienne : quand il crée de nouveaux outils, s’agit-il pour l’homme d’économiser ses forces, ou bien de les accroître ? S’agit-il de se libérer de tâches serviles, ou bien décupler son pouvoir de maîtriser la nature ? S’agit-il de se devenir plus libre par rapport à la matière, ou bien se renforcer son emprise sur elle ? S’agit-il de viser une existence toute spirituelle, ou bien de devenir maître de la nature ?
 

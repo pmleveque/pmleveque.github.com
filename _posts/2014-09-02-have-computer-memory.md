@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "L’ordinateur a-t-il de la mémoire ?"
+title: "Can we say that computers have memory?"
 categories:
 ---
 
-_This article was adapted from an unpublished work I have done while studying at Collège des Bernardins, Paris. I will provide an english translation as soon as possible._
+_Original title: "L’ordinateur a-t-il de la mémoire ?". This article was adapted from an unpublished work I have done while studying at Collège des Bernardins, Paris. I will provide an english translation as soon as possible._
 
 La mémoire est la « faculté de conserver et de rappeler au besoin des idées, des images et des états antérieurs », d’après le dictionnaire de l’Académie Française.
 L’homme a de la mémoire. Les animaux ont de la mémoire. On ne dit pas d’un livre ou d’une bibliothèque qu’ils ont de la mémoire. La mémoire serait-elle réservée aux êtres vivants ? Or, le langage courant n’hésite pas à parler de mémoire pour l’ordinateur. La différence avec les supports plus anciens, c’est que l’ordinateur peut mobiliser les données qu’il emmagasine. Avec Internet, les capacités de stockage de données sont devenues illimités, et elles peuvent être mobilisées en un rien de temps. Plus encore, ces données peuvent être mises en relation. Une nouvelle génération d’algorithmes parvient à déterminer quelles sont les informations les plus pertinentes, dans le but de répondre à toutes nos questions. Il n’est pas étonnant en fin de compte de voir appliqué aux ordinateurs un certain anthropomorphisme.
